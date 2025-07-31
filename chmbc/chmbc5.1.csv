@@ -1,0 +1,488 @@
+UserID,FamilyID,FirstName,PreferredName,LastName,Birthday,Age,Gender,Email,Home Phone,Cell Phone,Work Phone,Address,City,State,Zip Code
+3654,1290,Darius,,Greathree,,,Male,,601-896-3511,,,260 Pearlie Owens Dr.,Jackson,MS,39212
+3653,1290,Quentin,,Greathree,,,Male,,601-896-3511,,,260 Pearlie Owens Dr.,Jackson,MS,39212
+3652,1290,Jasmine,,Greathree,,,Female,,601-896-3511,,,260 Pearlie Owens Dr.,Jackson,MS,39212
+3651,1290,Zelda,,Greathree,,,Female,,601-896-3511,,,260 Pearlie Owens Dr.,Jackson,MS,39212
+3650,,Ry'n,,Good,10/1/1999,21 yrs,Female,,601-372-1570,,,123 Abigail Cove,Byram,MS,39272
+3649,3189,Kateena,,Smith,1/23/2005,16 yrs,Female,,601-969-6516,601-497-7151,,413 Fredrica Ave.,Jackson,MS,39209
+3648,3243,Sydney,,Armstrong,10/16/2003,17 yrs,Female,shara1002@yahoo.com,601-372-1570,601-259-2513,601-857-8016,123 Abigail Cove,Byram,MS,39272
+3647,3243,Mackenzie,,Armstrong,2/21/2006,15 yrs,Female,Sarah1002@yahoo.com,601-372-1570,601-259-2513,601-857-8016,123 Abigail Cove,Byram,MS,39272
+3646,3424,Aprel,,Barnes,9/10/1998,22 yrs,Female,,601-372-0487,,,1451 Northlake Drive,Jackson,MS,39211
+3645,3424,Monique,,Jackson,1/9/2004,17 yrs,Female,,,,,1451 Norhlake Dr.,Jackson,MS,39211
+3644,2113,Jayda,,Lambert,5/30/2016,4 yrs,Female,cherryPrice17@yahoo.com,601-813-5879,601-813-5879,,1620 E. County Line Rd,Ridgeland,MS,39157
+3643,1330,Kevon,,Harris,2/18/2003,18 yrs,Male,,601-622-3806,,,4952 Brookwood Place,Jackson,MS,39272
+3642,619,Stephanie,,Parker Smith,,,Female,,601-924-1144,,,407 Parker Drive,Clinton,MS,39056
+3640,3595,Catina,,Martin,,,Female,,,,,167 Whisper Lake Blvd.,Madison,MS,39110
+3639,3595,Kwesi,,Martin,,,Male,,,,,167 Whisper Lake Blvd.,Madison,MS,39110
+3638,935,John,,Coleman Hall,,,,,,,,4279 Glenn Oak Circle,Byram,MS-Mississippi,39272
+3637,,Gabrielle,,Love,,,Female,gabilove1314@gmail.com,901-355-3904,,,117 Elizabeth Ave.,Madison,MS,39110
+3636,,Candace,,Mayfield,11/20/2000,20 yrs,Female,cdmayfield15@gmail.com,601-260-2276,,,973 Watkins Pl.,Jackson,MS,39206
+3635,,Christopher,,Langford,11/1/1986,34 yrs,Male,,601-966-9700,,,824 Planters Point Dr,Canton,MS,39046
+3634,,Willie,,Willis,2/11/1970,51 yrs,Male,williewillis3534@gmail.com,601-850-0683,,,2109 Barrett Ave,Jackson,MS,39204
+3630,,Kijana,,Roberts,3/8/1998,23 yrs,Male,kijanaroberts1998@gmail.com,228-13-7882,,,1814 24th Street,Gulfport,MS,39501
+3629,,Destynee,,Quinney,9/17/1999,21 yrs,Female,destyneequinney@gmail.com,251-689-1218,,,P. O. 17452,Jackson,MS,39217
+3628,,Alicia,,Wells,11/29/1999,21 yrs,Female,alicia.wells190@gmail.com,662-695-7106,,,117 Elizabeth Avenue,Madison,MS,39110
+3627,,Nia,,Hodges,,,Female,niahodges@gmail.com,205-246-6203,,,JSU P. O. Box 190075,Jackson,MS,39217
+3626,,Arion,,Parks,4/14/1999,22 yrs,Female,arionparks2017@gmail.com,616-448-8565,,,117 Elizabeth Avenue,Madison,MS,39110
+3624,,Anejia,,Mann,10/5/2000,20 yrs,Female,anejiamann1005@gmail,616-655-4705,,,,,,
+3623,,TaShyla,,Pratt,6/18/1998,22 yrs,Female,tashylapratt18@gmail.com,612-701-2691,,,,,,
+3621,2177,Jordan,,Adams,7/6/2009,11 yrs,Male,,601-927-5884,,,5809 Orchard View Drive,Jackson,MS,39211
+3619,,Andrew,,Lewis,4/30/1974,46 yrs,Male,mrandrewlewis@icloud.com,,601-317-4130,,Post Office Box 835,Raymond,MS,39154
+3617,,Michael,,Mayfield,11/15/1994,26 yrs,Male,mayfieldmichael13@gmail.com,601-709-6224,,,973 Watkins Place,Jackson,MS,39206
+3616,,Maria,,Mayfield,9/17/2003,17 yrs,Female,nissishalom41@gmail.com,601-260-2276,,,973 Watkins Place,Jackson,MS,39206
+3614,,Chrystalyn,,Branch,,,,Chrystalynbranch4@gmail.com,15012474703,,,2520 Dorchester Dr,Little Rock,AR,72204
+3612,,Areda,,Cockrell-Harris,,,Female,acharrisjd@gmail.com,,,,1031 Meadowbrook Rd.,Jackson,MS,39206
+3606,1525,Phillip,,Kelly,11/1/1971,49 yrs,,Tooney4tha@yahoo.com,601-540-4774,601-540-4774,,4643 Casablanca Dr.,Jackson,MS,39206
+3600,,Michael,,Mitchell,9/25/1998,22 yrs,Male,michaelmitchellevents@gmail.com,,769-226-9877,,1444 Shirley Ave.,Jackson,MS,39204
+3595,,Emily,,Amos,,,Female,emilyamos31@gmail.com,601-941-7067,,,122 Quail Run Drive,Madison,MS,39110
+3591,3589,Angela,,Frazier Mitchell,6/16/1960,60 yrs,Female,jesuslovesangie@aol.com,601-942-0525,,,1444 Shirley Ave,Jackson,MS,39204
+3588,3586,Denise,,April,4/18/1964,57 yrs,Female,april33109@att.net,601-594-8301,601-594-8301,,6213 Winthrop,Jackson,MS,39206
+3553,3249,Justin,,Collins,,,,,601-720-9767,,,615 Walnut Grove Drive,Pearl,MS,39208
+3552,3550,Jada,,Kinloch,,,Female,jadakinloch@yahoo.com,,803-200-3891,,429 Robins Egg Dr.,Columbia,SC,29229
+3551,405,Taylor,,Johnson,,,,,(601) 750--5756,,,313 Brookside Cove,Terry,MS,39170
+3540,1311,Zoe,,Nash,,,Female,,601-213-7482,,,404 Violet Dr.,Madison,MS,39110
+3534,3532,Ray,,Smith,9/22/1956,64 yrs,Male,ras601@gmail.com,601-941-8619,,,122 Quail Run Drive,Madison,MS,39110
+3526,653,Terria,,Terry,1/19/1991,30 yrs,,terria-terry@gmail.com,601-572-4618,,,131 South Denver St.,Jackson,MS,39209
+3525,2068,Jamari,,Tate,,,,,601-373-7113,,,409 Horseshoe Cove,Byram,MS,39272
+3522,3520,William,,Arnold,5/7/1952,68 yrs,Male,,,,,"501 Northpointe Pkwy, #214",Jackson,MS,39211
+3495,2177,LeAnna,,Adams,,,Female,leannaadams31@yahoo.com,601-927-5884,,,5809 Orchard View Drive,Jackson,MS,39211
+3485,3483,Indiah,,Stinson-Johnson,,,,indiahs.j.96@gmail.com,404-863-7194,404-863-7194,,"2119 Woodland Way
+Apt. 6",Jackson,MS,39209
+3480,3478,Rosie,,Clark,10/25/1949,71 yrs,Female,rsclr1@gmail.com,601-259-5766,,,1038 Woodville Drive,Jackson,MS,39212
+3479,3477,Robert,,Shearry,2/10/1959,62 yrs,Male,,601.896.6731,,,2123 Queensroad Avenue,Jackson,MS,39213
+3474,811,Anaya,,Henry,,,,,,,,,,,
+3458,2070,Nirvana,,Taylor,,,,,601-850-6829,,,1230 Hill Avenue,Jackson,MS,39204
+3432,3189,Ryan,,Smith,,,,,601.969.6516,,,413 Fredrica Avenue,Jackson,MS,39209
+3427,3424,Phyllis,,Sanders,6/27/1964,56 yrs,Female,psanders522@yahoo.com,601.372.0487,,,1451 Northlake Drive,Jackson,MS,39211
+3426,3424,Douglas,,Sanders,5/4/1968,52 yrs,Male,dreshon@bellsouth.net,601.372.0487,,,1451 Northlake Drive,Jackson,MS,39211
+3397,3395,Margaret,,Baker,12/3/1964,56 yrs,Female,margaretbaker888@gmail.com,510-992-9110,601-316-3301,,5000 Ridgewood Rd.   Apt# 1403,Jackson,MS,39211
+3376,315,Joseph,,Davis,,,,,601-373-7006,,,309 South Haven Dr.,Jackson,MS,39272
+3365,3362,Barbara,,Reed,9/27/1949,71 yrs,,,601-362-9638,,,150 Needle Cove Drive,Jackson,MS,39206
+3364,3362,Simmie,,Reed,4/22/1949,72 yrs,Male,,601-362-9638,601-832-1769,,150 Needle Cove Drive,Jackson,MS,39206
+3352,3343,Ethan,,Franklin,10/20/2008,12 yrs,Male,,601.347.9145,,,650 Windward Lane,Richland,MS,39218
+3349,3347,Brenda,,Shay-Wilkinson,8/19/1965,55 yrs,Female,,601-502-6235,,,223 Kimbrough,Jackson,MS,39204
+3345,3343,Marcus,,Franklin,5/23/1980,40 yrs,Male,,601.347.9145,,,650 Windward Lane,Richland,MS,39218
+3341,3343,Larenda,,Franklin,4/4/1983,38 yrs,Female,larendab@hotmail.com,601-347-9145,,,650 Windward Lane,Richland,MS,39218
+3340,3338,Barbara,,Mitchell,12/31/1956,64 yrs,Female,barbaramitchell232@gmail.com,601-951-8682,,,445 Fredrica Avenue,Jackson,MS,39209
+3339,3189,Jabari,,Harris,,,,,,,,413 Fredrica Avenue,Jackson,MS,39209
+3328,379,Sandra,,Hoye,12/24/1966,54 yrs,,,,,,3666 Hollywood,Jackson,MS,39213
+3309,1330,Jailyn,,Myers,,,,,601-622-3806,,,4952 Brookwood Place,Jackson,MS,39272
+3293,1365,Rickey,,Jones,2/12/1970,51 yrs,Male,rickey.jones07@yahoo.com,601-278-4977,,,568 Beasley Rd.,Jackson,MS,39206
+3265,2064,Gwendolyn,,Williams,9/10/1949,71 yrs,Female,gyhwilliams@gmail.com,601-982-2155,,,2102 Queensroad Avenue,Jackson,MS,39213
+3257,3255,Jamiel,,Taylor,7/15/1964,56 yrs,Female,,601-566-5815,,,975 Mt. Elam Church Road,Jackson,MS,39208
+3251,3249,Jason,,Collins,6/10/1979,41 yrs,Male,j.collins9767@gmail.com,601-720-9767,,,615 Walnut Grove Drive,Pearl,MS,39208
+3250,3249,Kimberly,,Collins,12/3/1978,42 yrs,Female,kkcollins1@gmail.com,601-720-9767,,,615 Walnut Grove Drive,Pearl,MS,39208
+3245,3243,Eric,,Armstrong,1/15/1971,50 yrs,Male,,601.259.2513,,,123 Abigail Cove,Byram,MS,39272
+3229,3595,Kiya,,Martin,,,Female,,,,,167 Whisper Lake Blvd.,Madison,MS,39110
+3191,3189,Carolyn,,Smith,2/6/1954,67 yrs,Female,tip-57@att.net,601.969.6516,601.497.7151,,413 Fredrica Avenue,Jackson,MS,39209
+2181,2179,Raymona,,Smith,11/22/1987,33 yrs,Female,missmona2011@yahoo.com,601-259-2459,,,144 Dogwood Drive,Canton,MS,39046
+2180,2177,Edith Michelle,Michelle,Adams,8/29/1972,48 yrs,Female,edithadams/3@hotmail.com,601-927-5884,,,5809 Orchard View Drive,Jackson,MS,39211
+2179,2177,Donovan,DeShawn,Adams,9/22/1970,50 yrs,Male,,601-927-5884,,,5809 Orchard View Drive,Jackson,MS,39211
+2173,2171,Emerr,,Powe,8/26/1961,59 yrs,Female,emerrp@ymail.com,601-209-5151,,,5126 Rivermount Drive,Byram,MS,39272
+2171,2169,Tonya,,Evans,4/4/1987,34 yrs,Female,tonyam1987@yahoo.com,601-709-6020,,,4308 Newpost Road,Jackson,MS,39212
+2168,2166,Samuel,,Lake,6/16/1947,73 yrs,Male,lsambiggsamtwo@aol.com,601-957-6577,908-868-1562,,1829 Lake Trace Dr.,Jackson,MS,39211
+2152,3253,Robert,,Clark IV,,,Male,,601-668-0820,,,111 Bear Creek Ct,Canton,MS,39046
+2150,2166,Lockye,,Lake,8/31/1900,120 yrs,Female,churchfolk23@aol.com,601-957-6577,908-361-9369,,1829 Lake Trace Dr.,Jackson,MS,39211
+2148,1833,Khaliah,,Brown,,,,,,,,1633 Shirley Avenue,Jackson,MS,39204
+2136,2134,Monturia,,Watkins,2/8/1983,38 yrs,Female,,601-376-6382,,,1314 Woodell Dr.,Jackson,MS,39212
+2130,376,Aaliyah,,Horn,11/6/2006,14 yrs,Female,,601-750-9431,,,3535 Highway East,Pearl,MS,39208
+2115,2113,Cherry,,Price,4/30/1968,52 yrs,Female,cherryprice17@yahoo.com,601-813-5879,,,"1620 E. County Line Rd
+Building 13, Apt. i",Ridgeland,MS,39157
+2113,2111,"Emuel ""ML""",Emuel,Tripp,9/17/1951,69 yrs,Male,,601-454-9531,,,1545 Morehouse Avenue,Jackson,MS,39204
+2110,2108,Mikey,,Tillman,11/10/1974,46 yrs,Male,,601-405-5803,,,1001 Cherry Stone Circle,Clinton,MS,39056
+2103,2100,Sherry,,Rankin,5/13/1968,52 yrs,Female,slrankinaka@aim.com,601-454-4109,601-918-2598,,420 Lake Dockery Dr.,Byram,MS,39272
+2102,2100,LaVaughn,,Rankin,3/26/1967,54 yrs,Male,lvrankin5@gmail.com,601-454-4109,601-454-4109,,420 Lake Dockery Dr.,Byram,MS,39272
+2099,2002,Corbin,,Wilson,,,,,601-829-0535,,,303 La Coste Ct.,Brandon,MS,39047
+2098,2002,Jennifer,,Steele-Wilson,1/7/1971,50 yrs,Female,jsteele7@comcast.net,601-829-0535,601-454-7169,,303 La Coste Ct.,Brandon,MS,39047
+2072,2070,Dorothy,,King,1/2/1900,121 yrs,Female,dorothyking897@yahoo.com,601-850-6829,,,1230 Hill Avenue,Jackson,MS,39204
+2070,2068,Jeanne,,Julious-Tate,7/17/1972,48 yrs,Female,"pjjtate409@yahoo.com,",601-373-7113,601-953-0310,601-576-2800,409 Horseshoe Cove,Byram,MS,39272
+2066,2064,Leon,,Williams,3/8/1949,72 yrs,Male,wil9314@gmail.com,601-982-2155,,,2102 Queensroad Avenue,Jackson,MS,39213
+2043,2041,Asilyn,,Myers,10/24/1994,26 yrs,Male,asilynmyers@gmail.com,601-260-1205,,,4952 Brookwood Place,Jackson,MS,39272
+2030,316,Tracy,,Davis,9/4/1900,120 yrs,,,601-540-0941,,,4059 Henderson Rd.,Byram,MS,39272
+2021,882,Ashley,,Knight,,,,,601-201-3027,,,126 Brisco Street,Madison,MS,39110
+2018,2016,Erica,,Williams,9/26/1973,47 yrs,,ericasapphire2@yahoo.com,601-372-0907,601-609-3146,,3266 Fleetwood Dr.,Jackson,MS,39212
+2017,2015,Martha,,Hester,9/16/1955,65 yrs,Female,marthahester80@gmail.com,504-201-2383,,,217 Cozy Ln,Cedar Hll,TX,75104
+2004,2002,Anthony,,Wilson,11/26/1967,53 yrs,Male,,601-829-0535,601.454-7169,,303 La Coste Ct.,Brandon,MS,39047
+1996,1020,Blake,,Hansberry,12/13/2007,13 yrs,Male,,601-373-9633,,,118 Rowan Oak Place,Terry,MS,39170
+1986,1984,Joyce,,Winston,,,Female,joycewinston93@gmail.com,,601-927-0928,,3133 Woodside Dr.,Jackson,MS,39212
+1937,1935,James,,Bennett,9/17/1945,75 yrs,Male,linda_edison@yahoo.com,601-982-8467,601-362-5578,,1835 T. J. Roberts Drive,Jackson,MS,39213
+1921,1919,Linda Faye,Linda,Williams,,,,,,,,5862 Deer Trail,Jackson,MS,39211
+1888,1886,Jacqueline,,Lake,6/8/1979,41 yrs,Female,jacquelinelake39159@gmail.com,601-218-6217,,,223 Rutherford B. Hayes Circle,Jackson,MS,39213
+1870,3599,Khaliah,,Harris,,,,,601-760-0665,,,1633 Shirley Avenue,Jackson,MS,39204
+1848,1846,John,,Overton,,,,,,,,728 Mary Lee St.,Jackson,MS,39203
+1844,2169,Vincent,,Evans Jr.,12/2/1985,35 yrs,Male,,769.220.5795,,,4308 Newpost Road,Clinton,MS,39212
+1835,1833,Teresa,,Edwards,8/27/1965,55 yrs,Female,leedwards553@yahoo.com,601-760-0665,,,1633 Shirley Avenue,Jackson,MS,39204
+1834,1832,Deetrich,,Anderson,9/26/1971,49 yrs,Male,deetrich1@yahoo.com,601-624-7846,,,250 Winfield St,Jackson,MS,39212
+1827,3598,Jackson,,Morris,4/20/2009,12 yrs,,,601-898-7740,,,227 Lake Circle,Madison,MS,39110
+1794,1525,Jaylon,,Clemons,4/20/1999,22 yrs,,,601-850-7337,,,4643 Casablanca Dr.,Jackson,MS,39206
+1788,212,Alyssa,,James,,,Female,,601-981-7747,,,837 Buttonwood,Jackson,MS,39206
+1784,1782,Lawrence,,Adams Jr.,10/5/1973,47 yrs,Male,,601-362-0081,,,6183 Woodhaven Road,Jackson,MS,39206
+1732,1074,Paul-James,,Curry,8/23/2001,19 yrs,,,601-372-5745,,,182 Lea Circle,Jackson,MS,39204
+1725,3243,Sarah,,Armstrong,8/29/1972,48 yrs,Female,,601.259.2513,,,123 Abigail Cove,Byram,MS,39272
+1723,376,Alexzandria,Alex,Horn,11/17/1999,21 yrs,Female,,601-750-9431,,,3535 Highway East,Pearl,MS,39208
+1716,1083,Treasure,,Fisher,,,Female,fishertreasure@yahoo.com,601-260-8613,,,1832 Lula Lane,Jackson,MS,39209
+1707,1637,Tobias,,Barnes,9/28/2005,15 yrs,Male,tobjerbar123@gmail.com,601-977-9075,,,111 Herring Drive,Raymond,MS,39154
+1706,1637,Carter I.,,Barnes,5/27/2003,17 yrs,Male,carisabar123@gmail.com,601-977-9075,,,111 Herring Drive,Raymond,MS,39154
+1687,191,Briunna,,Gleese,11/20/1999,21 yrs,Female,,601-969-3352,,,268 Lexington Ave,Jackson,MS,39209
+1685,1484,Brandan T.,Brandan,Tate,8/16/2001,19 yrs,Male,,769-257-4627,,601-559-9367,"386 Raymond Rd.
+Apt. 24A",Jackson,MS,39204
+1682,1074,Monica,,Curry,1/27/1998,23 yrs,Female,,601-594-7570,,,182 Lea Circle,Jackson,MS,39204
+1673,1671,Jean,,Jacobs,3/31/1955,66 yrs,Female,jjacobs@entergy.com,769.300.8191,,,63 Enclave Circle,Ridgeland,MS,39157
+1670,3253,Leah F.,Leah,Clark,11/8/2002,18 yrs,Female,,601-668-0820,,,111 Bear Creek Ct,Canton,MS,39046
+1669,292,Lanae,,Williams,10/22/2003,17 yrs,Female,,601-260-5563,,,110 Ellicot Burn,Clinton,MS,39056
+1665,1362,Ja'Miraca,Ja'Miraca,Hicks,11/6/2002,18 yrs,Female,Jamiracahicks2002@gmail.com,601-371-9812,,,6 Kee Court,Jackson,MS,39212
+1664,113,Breyana,,Minor,1/27/1997,24 yrs,Female,,601-373-0379,601-506-6327,,9879 Crooked Creek Blvd.,Byram,MS,39272
+1663,1660,Barbara Davis,Barbara,Booker,10/3/1938,82 yrs,Female,,601-926-1866,,,210 Lindale Cir.,Clinton,MS,39056
+1662,1660,Walter,,Booker,10/17/1943,77 yrs,Male,,601-926-1866,,,210 Lindale Cir.,Clinton,MS,39056
+1660,1556,Zackeya,,Ward,4/28/1993,28 yrs,Female,,601-668-5484,601-668-5484,,124 Strafford St.,Jackson,MS,39209
+1656,1654,Marlon,,Forbes,4/24/1973,48 yrs,Male,polored73@yahoo.com,601-665-8737,,601-291-6586,929 Barberry Ave.,Jackson,MS,39204
+1653,1488,Kylon,,Spann,10/12/2002,18 yrs,Male,,601-376-7291,,,1710 Florence Ave.,Jackson,MS,39204
+1650,465,Taylor,,Washington,4/18/2002,19 yrs,,,601-203-9664,,,1832 Northwood Circle,Jackson,MS,39213
+1643,1546,Tanna,,Bryant,8/23/2003,17 yrs,Female,,601-969-0871,,,237 Myer Ave.,Jackson,MS,39209
+1640,1637,LaGrace,,Barnes,7/1/1973,47 yrs,Female,lagrace.barnes@att.net,601-977-9075,601-310-7059,,111 Herring Drive,Raymond,MS,39154
+1639,1637,Jeremiah,,Barnes,7/25/1975,45 yrs,Male,jeremiahbarnes72@yahoo.com,601-977-9075,601-466-4404,,111 Herring Drive,Raymond,MS,39154
+1634,826,Paul,,Covington III,2/9/1997,24 yrs,Male,,601-355-2239,,,1047 Pecan Blvd.,Jackson,MS,39209
+1633,372,DeKala,,Hood,6/28/1998,22 yrs,Female,dekala100@gmail.com,601-213-2420,,,1448 Forbes Drive,Jackson,MS,39272
+1629,2016,Emiyah,,Williams,12/3/2002,18 yrs,Female,,601-665-9254,,,3266 Fleetwood Dr.,Jackson,MS,39212
+1628,2016,Adalis,,Williams,10/2/1996,24 yrs,Female,,601-665-9254,,,3266 Fleetwood Dr.,Jackson,MS,39212
+1627,2016,Okayla,,Williams,8/12/1993,27 yrs,Female,,601-665-9254,,,3266 Fleetwood Dr.,Jackson,MS,39212
+1626,2016,Shamiar,,Williams,9/24/1990,30 yrs,Female,,601-665-9254,,,3266 Fleetwood Dr.,Jackson,MS,39212
+1619,473,Makayla J.,Makayla,Mitchell,10/4/1998,22 yrs,Female,,601-352-1189,,,2834 Hemingway Circle,Jackson,MS,39209
+1618,473,Jerry,,Mitchell III,2/6/2002,19 yrs,Male,jerry.mitchell2602@yahoo.com,601-352-1189,,,2834 Hemingway Circle,Jackson,MS,39209
+1612,1311,Chloe,,Nash,11/7/2003,17 yrs,Female,,601-405-1311,,,445 Hillandale Drive,Jackson,MS,39212
+1609,342,Crystal,,Green,3/26/1979,42 yrs,,crystal267914@yahoo.com,601-896-6199,601-594-5861,,112 Rollingwood Drive,Jackson,MS,39211
+1607,1539,Camryn,,Johnson,4/11/2000,21 yrs,Female,camrynjohnson1738@gmail.com,601-665-3554,,,303 Shadow Wood Dr.,Clinton,MS,39056
+1606,1365,Demosthenes,,Jones,3/12/1999,22 yrs,Male,,601-278-4977,601-212-7844,,568 Beasley Rd.,Jackson,MS,39206
+1602,139,Milalai,,Walden,1/7/2002,19 yrs,Female,lalai.walden@icloud.com,601-383-1559,,,5142 Nantuckett Dr.,Jackson,MS,39209
+1601,1029,Tosh Barnes,Tosh,McGee,1/8/1999,22 yrs,Male,,601-373-9044,,,5900 Seven Springs Rd.,Raymond,MS,39154
+1591,1589,Terrance,,Mitchell,5/22/1970,50 yrs,Male,,,,,2611 Glenn St.,Jackson,MS,39204
+1589,882,Lillian Olivia,Lillian,Knight,6/11/2000,20 yrs,Female,lilknight601@hotmail.com,601-201-3027,601-259-9833,,126 Brisco Street,Madison,MS,39110
+1588,734,Deidre C.,Deidre,Wilder,5/17/1983,37 yrs,Female,dwilder24@yahoo.com,601-927-7809,,,110 Woodridge Drive,Flora,MS,39071
+1587,1585,Roger,Roger,Bridges,7/15/1959,61 yrs,Male,bridgesroger@bellsouth.net,601-362-0958,601-750-8957,,15 Lakewood Cove,Jackson,MS,39213
+1586,734,Andrew,,Wilder,1/2/1900,121 yrs,,,601-927-7809,,,"6300 Old Canton Rd, Apt 14101",Jackson,MS,39211
+1584,537,Talbot,T.J.,Robinson Jr.,2/14/1995,26 yrs,Male,trobial@hotmail.com,601-906-0814,,,127 Victoria Place,Brandon,MS,39042
+1583,1581,Vanessa,,Myles,4/28/1961,60 yrs,Female,,,,,5103 Brookview Dr.,Jackson,MS,39212
+1578,1576,Bernice,,Williams,7/16/1946,74 yrs,Female,willbw@bellsouth.net,601-362-0902,,,1922 Boling St.,Jackson,MS,39209
+1577,1508,Ashley,,Williams,12/23/1986,34 yrs,Female,rap4food40@yahoo.com,601-948-2084,769-233-4796,,1215 Fairmont Ave.,Jackson,MS,39204
+1569,653,Lucretia Regina,Regina,Terry,6/13/1964,56 yrs,Female,,601-213-8471,,,131 South Denver St.,Jackson,MS,39209
+1566,1564,Isaiah,,Rush,11/3/1997,23 yrs,Male,isaiahrush07@gmail.com,601-941-7685,601-941-7685,,131 Marshall Drive,Jackson,MS,39212
+1562,1480,Timothy,,Peoples,1/26/1996,25 yrs,Male,peoples_tim14@yahoo.com,601-421-2961,601-421-2961,,306 Seminole Cir.,Terry,MS,39170
+1561,1480,Jasmine,,Peoples,3/6/1999,22 yrs,Female,,601-613-1903,,,306 Seminole Cir.,Terry,MS,39170
+1560,3593,Jessica,,Pamplin,10/7/1995,25 yrs,Female,,601-922-7025,,,3420 Dundee Lane,Jackson,MS,39212
+1559,504,Lauren,,Ousby,10/28/1998,22 yrs,Female,laurenousby@gmail.com,601-853-1108,601-966-9129,,P.O. Box 2816,Madison,MS,39130
+1558,1556,Charlie Mae,Charlie,Hill,12/26/1949,71 yrs,Female,charlie2223@att.net,601-668-5484,,,124 Strafford St.,Jackson,MS,39209
+1557,1555,Marnika D.,Marnika,Nash,3/22/1978,43 yrs,Female,mdnashot@gmail.com,601-213-7482,,,404 Violet Dr.,Madison,MS,39110
+1556,1554,Vondelle B.,Vondelle,Myles,4/14/1942,79 yrs,Female,,601-373-4142,601-955-7437,,301 Briar Vista Dr.,Jackson,MS,39212
+1555,3598,Merdith Wood,Merdith,Morris,11/19/1996,24 yrs,Female,,601-898-7740,,,227 Lake Circle,Madison,MS,39110
+1552,3598,Clay Bingham,Clay,Morris,7/3/2001,19 yrs,Male,,601-898-7740,,,227 Lake Circle,Madison,MS,39110
+1548,1546,Jeanne,Jeane,Bryant,6/16/1982,38 yrs,Female,jahnmarrie@yahoo.com,601-969-0871,,,237 Myer Ave.,Jackson,MS,39209
+1546,443,Jamiecia,Jamecia,Madison,12/26/1999,21 yrs,Female,,601-906-1814,,,313 Heritage Place,Jackson,MS,39212
+1543,1541,Jennifer,,Julious,6/3/1996,24 yrs,Female,gigijen.jj@gmail.com,601-371-6276,601-668-9605,,214 Pearlie Owens Dr.,Jackson,MS,39212
+1541,1539,Derrick,,Johnson,8/16/1974,46 yrs,Male,johnson.derrick41@yahoo.com,601-665-3554,,,303 Shadow Wood Dr.,Clinton,MS,39056
+1540,1539,Amy,,Johnson,6/19/1978,42 yrs,Female,sherrell1978@yahoo.com,601-665-3554,601-665-3554,,303 Shadow Wood Dr.,Clinton,MS,39056
+1538,1299,Ervin,,Honer,,,,,601-352-7044,601-506-9797,,1210 Wiggins St.,Jackson,MS,39203
+1535,349,Sarah E.,Sarah,Hamilton,6/18/1993,27 yrs,Female,chocolate_pin_07@yahoo.com,601-372-9856,601-896-2550,,105 Glen Iris Place,Jackson,MS,39204
+1533,486,KeShaun,,Blackmon,6/5/2001,19 yrs,Male,lillunch56@icloud.com,601-954-1860,601-278-2872,,5104 Brookleigh Drive,Byram,MS,39272
+1532,486,Ariel,,Griffin,1/8/1998,23 yrs,Female,,601-954-1860,,,5104 Brookleigh Drive,Byram,MS,39272
+1531,1529,Amber,,Gray,10/26/1987,33 yrs,Female,ms.ambergray2003@yahoo.com,973-480-9094,,,"6675 Old Canton Road
+Apt.  2110",Ridgeland,MS,39157
+1527,1525,Catherine,,Dixon - Kelly,11/5/1963,57 yrs,Female,mscat1075@gmail.com,769-233-7256,601-502-7933,,4643 Casablanca Dr.,Jackson,MS,39206
+1526,1524,Rosie,,Davis,5/20/1900,120 yrs,Female,rlburt1729@gmail.com,601-421-3693,,,601 Cedarhurst Rd.,Jackson,MS,39206
+1525,1524,Forrest,,Davis,10/12/1999,21 yrs,Male,,601-421-3693,,,601 Cedarhurst Rd.,Jackson,MS,39206
+1522,290,Justin,,Coleman,2/5/1998,23 yrs,Male,justincoleman35@gmail.com,601-201-1906,601-572-7099,,5633 Dogwood Trail,Jackson,MS,39212
+1520,3598,Monica Clay,Monica,Morris,1/2/1963,58 yrs,Female,lmmclay@aol.com,601-898-7740,601-862-9275,,227 Lake Circle,Madison,MS,39110
+1515,1513,Mary Bernice,Mary,Barnes,1/9/1951,70 yrs,Female,mbbarnes@nursing.umsed.edu,601-850-8537,,601-815-8040,5163 South Dr.,Jackson,MS,39209
+1510,1508,Sara,,Williams,1/3/1939,82 yrs,Female,williamsandson@bellsouth.net,601-948-2084,601-940-0873,,1215 Fairmont Ave.,Jackson,MS,39204
+1506,1504,Smeadie,,Fisher,3/31/1966,55 yrs,Female,kelly9sbkfisher@gmail.com,601-366-5155,,,1056 Brodie Road,Jackson,MS,39213
+1503,653,Mary,,Terry,1/13/1989,32 yrs,Female,,601-454-0478,,,131 South Denver St.,Jackson,MS,39209
+1492,1488,Keveon,,Spann,11/3/2000,20 yrs,Male,,601-376-7291,,,1710 Florence Ave.,Jackson,MS,39204
+1491,1488,Koqawn,,Spann,1/2/1999,22 yrs,Male,,601-376-7291,,,1710 Florence Ave.,Jackson,MS,39204
+1490,1488,Lucrecia,,Spann,8/24/1980,40 yrs,Female,,601-376-7291,,,1710 Florence Ave.,Jackson,MS,39204
+1486,1484,Chasity S.,Chasity,Reed,2/14/1976,45 yrs,Female,,769-257-4627,,,"386 Raymond Rd.
+Apt. 24A",Jackson,MS,39204
+1485,113,KauVonda,,Amos,5/10/1976,44 yrs,Female,,601-373-0379,601-506-6327,,9879 Crooked Creek Blvd.,Byram,MS,39272
+1484,1480,Sandra,,Peoples,6/25/1969,51 yrs,Female,cpeoples_jam1@comcast.net,601-421-2961,,,306 Seminole Cir.,Terry,MS,39170
+1482,1480,Calvin,,Peoples,11/30/1962,58 yrs,Male,peoplescalvin65@yahoo.com,601-421-2961,,,306 Seminole Cir.,Terry,MS,39170
+1480,1478,Lemuel,,Clark,10/20/1964,56 yrs,Male,lemuelclark325i@yahoo.com,601-918-3296,601-918-3296,,1710 Florence Ave.,Jackson,MS,39204
+1446,473,Dajai',,Mitchell,8/4/1994,26 yrs,Female,,601-352-1189,,,2834 Hemingway Circle,Jackson,MS,39209
+1445,1443,Hope,,Reeves,7/22/1998,22 yrs,Female,hopereeves98@gmail.com,601-919-6281,,,118 Rowan Oak Pl.,Terry,MS,39170
+1444,1442,Leroy Deron,Leroy,Willis,12/15/1953,67 yrs,Male,bluesteele1@live.com,601-954-1520,601-954-1520,,5516 Ridgewood Rd.,Jackson,MS,39211
+1432,1430,Atarah,,Price,2/18/1987,34 yrs,Female,,,,,1719 Hair St.,Jackson,MS,39204
+1428,1425,Bobbie Jean,Bobbie,Anderson,1/14/1956,65 yrs,Female,bobbiekanderson@gmail.com,601-421-5572,,601-923-2556,1167 Rockett Dr.,Jackson,MS,39212
+1427,1425,Gregory Lee,Gregory,Anderson Sr.,12/3/1955,65 yrs,Male,gandersonsr@hotmail.com,601-421-5572,601-421-5572,601-961-7194,1167 Rockett Dr.,Jackson,MS,39212
+1425,473,Kierrariel,,Mitchell,9/23/1992,28 yrs,Female,,601-352-1189,601-454-7723,,2834 Hemingway Circle,Jackson,MS,39209
+1422,642,Ja'shaun,,Tate,2/28/1996,25 yrs,Male,,601-355-5232,,,2616 Hemingway Circle,Jackson,MS,39209
+1400,218,Matthew,,Jenkins,10/7/1996,24 yrs,Male,,601-201-2895,,,140 Glenwild Trl.,Canton,MS,39046
+1395,1935,Erica Edison,Erica,Bell,2/15/1982,39 yrs,Female,,601-982-8467,,,1835 T. J. Roberts Drive,Jackson,MS,39213
+1393,1391,Penny,,Hedrick,10/22/1963,57 yrs,Female,pennyhedrick.52@gmail.com,601-497-3795,,,2846 Fallbrook Dr.,Jackson,MS,39212
+1387,1385,Destiny Paige,Paige,Reeves,7/7/1997,23 yrs,Female,,601-919-6280,,,413 Lee St.,Jackson,MS,39272
+1382,1380,Mickala Shazmin,Mickala,Hodges,5/31/1996,24 yrs,Female,mickalahodges14@gmail.com,601-942-3027,,,6300 Tank Road,Terry,MS,39170
+1380,1020,Darius,,Wilson,3/10/1983,38 yrs,Male,,601-373-9633,,,118 Rowan Oak Place,Terry,MS,39170
+1370,1368,Bernard,,Bridges,2/16/1958,63 yrs,Male,bbridges@trustmark.com,601-366-6845,,,17 Lakewood Cove,Jackson,MS,39213
+1369,1368,Sharon F.,Sharon,Bridges,5/14/1962,58 yrs,Female,sbridges1908@gmail.com,601-366-6845,,601-948-3101,17 Lakewood Cove,Jackson,MS,39213
+1368,1366,LaTara,,Sanders,2/22/2007,14 yrs,Female,latarasanders@yahoo.com,601-624-9721,,,568 Beasley Rd.,Jackson,MS,39206
+1367,1365,LaTarsha,,Sanders-Jones,12/17/1970,50 yrs,Female,latarshasanders@yahoo.com,601-278-4977,,,568 Beasley Rd.,Jackson,MS,39206
+1364,1362,Laura D. Adams,Laura,Hicks,2/19/1963,58 yrs,Female,ldahicks@att.net,601-371-9812,,,6 Kee Court,Jackson,MS,39212
+1357,1330,Catina,,Myers-Harris,12/26/1973,47 yrs,Female,myerscatina@yahoo.com,601-622-3806,601-622-3806,,4952 Brookwood Place,Byram,MS,39272
+1351,1349,Timothy W.,Timothy,Rush II,7/26/1992,28 yrs,Male,,601-572-7427,,,131 Marshall Drive,Jackson,MS,39212
+1349,206,John,,Higgins II,3/28/1996,25 yrs,Male,johnphiggins2@yahoo.com,601-856-5654,601-209-8553,,117 Elizabeth Ave,Madison,MS,39110
+1346,405,Tewana,,Johnson,8/22/1980,40 yrs,Female,tewanajohnso07@gmail.com,(601) 750--5756,,601-968-1491,313 Brookside Cove,Terry,MS,39170
+1340,1338,George,,Daniel,4/29/1941,80 yrs,Male,danielgeorge528@gmail.com,601-421-0688,601-932-9543,,3458 Mahaffey Dr.,Pearl,MS,39208
+1332,1330,Kelvin,,Harris,7/12/1972,48 yrs,Male,,601-622-3806,,601-373-9661,4952 Brookwood Place,Jackson,MS,39272
+1316,1326,Stephanie,,Gant,9/10/1981,39 yrs,Female,,,,,1502 Schoolview Dr.,Jackson,MS,39213
+1313,3592,Kelvin,,Nash,10/10/1971,49 yrs,Male,kelvin.nashii@gmail.com,601-405-1311,601-918-8994,,445 Hillandale Drive,Jackson,MS,39212
+1305,1303,Michael Morgan,Michael,Hodges III,11/5/1985,35 yrs,Male,,601-291-8888,,,"100 Byram Drive, Apt 22E",Byram,MS,39272
+1301,1299,Rosie,,Honer,11/3/1952,68 yrs,Female,rosiehoner@yahoo.com,601-352-7044,,,1210 Wiggins St.,Jackson,MS,39203
+1292,1290,Nathaniel,Nate,Greathree,7/26/1964,56 yrs,Male,,601-896-3511,,,260 Pearlie Owens Dr.,Jackson,MS,39212
+1167,290,Jonathan L.,Jonathan,Coleman,9/29/1993,27 yrs,Male,jonathancoleman1@hotmail.com,601-201-1906,601-214-5576,,5633 Dogwood Trail,Jackson,MS,39212
+1145,1143,Charlotte,,Gordon-Galloway,5/19/1974,46 yrs,Female,cgordon109@yahoo.com,601-218-4924,,,149 Odom Road,Flora,MS,39071
+1095,1093,Ebony,,Edison-Spann,7/31/1987,33 yrs,Female,espann0731@gmail.com,601-371-6766,601-506-7762,,3100 Glennhaven Dr.,Byram,MS,39272
+1094,1935,Linda,,Bennett,8/1/1957,63 yrs,Female,linda_edison@yahoo.com,601-982-8467,601-503-5581,,1835 T. J. Roberts Drive,Jackson,MS,39213
+1091,1088,Bryant,,Oatis,10/24/1980,40 yrs,Male,,601-948-0043,,,1015 Laura Ave.,Jackson,MS,39209
+1090,1088,Wilbert,,Oatis,11/22/1947,73 yrs,Male,,601-948-0043,,,1015 Laura Ave.,Jackson,MS,39209
+1089,1087,Jay Deville,Jay,Johnson,9/5/1958,62 yrs,Male,,601-940-3413,,601-960-1325,5763 Kirkley Drive,Jackson,MS,39206
+1085,1083,Winford Earl,Winford,Fisher,1/8/1962,59 yrs,Male,,601-260-8613,,,1832 Lula Lane,Jackson,MS,39209
+1078,1076,Kelvin,,Hayes,3/5/1967,54 yrs,Male,kelvinchayes@gmail.com,601-373-7295,601-624-7582,,3033 Fleetwood Dr.,Jackson,MS,39212
+1077,1074,Jacquline Smotherman,Jacquline,Curry,12/7/1967,53 yrs,Female,,601-372-5745,,,182 Lea Circle,Jackson,MS,39204
+1076,1074,James Ivory (Paul),James,Curry,11/22/1958,62 yrs,Male,,601-372-5745,,,182 Lea Circle,Jackson,MS,39204
+1066,1063,Adrena,,Brumfield,7/6/1991,29 yrs,Female,,601-922-4305,601-502-4299,,1009 Westhaven Blvd.,Jackson,MS,39209
+1065,1063,Marilyn,,Brumfield,12/19/1958,62 yrs,Female,Brum9@bellsouth.net,601-922-4305,,601-813-4184,1009 Westhaven Blvd.,Jackson,MS,39209
+1052,1050,James,,Coleman,8/25/1955,65 yrs,Male,jcolem01@aol.com,601-372-5477,601-259-1714,601-936-6206,829 Creston Dr.,Byram,MS,39272
+1049,1050,Mildred Penny,Mildred,Coleman,2/12/1958,63 yrs,Female,Penny6col@aol.com,601-372-5477,601-927-2747,,829 Creston Dr.,Byram,MS,39272
+1045,1043,Willie,,McGill,2/4/1953,68 yrs,Male,,601-238-3257,,,334 Summerville Drive,Madison,MS,39110
+1044,1042,Vondakay,,Hardin,9/14/1964,56 yrs,Female,vondakayhardin@yahoo.com,601-454-9955,601-918-0575,,150 Magnolia Place Circle,Brandon,MS,39047
+1043,1042,Kristen,,Melton,7/27/1992,28 yrs,Female,kristenmichele2010@yahoo.com,601-454-9955,,,150 Magnolia Place Cove,Brandon,MS,39047
+1031,1029,Vincent K.,Vincent,McGee,12/6/1959,61 yrs,Male,stheatingcooling@bellsouth.net,601-373-9044,601-594-1484,,5900 Seven Springs Rd.,Raymond,MS,39154
+1024,1022,Darrilyn,,Jenkins,9/11/1989,31 yrs,Female,,601-613-4284,,,149 Glenwild Trl,Canton,MS,39046
+1022,1020,Catrina,,Reeves - Hansberry,6/24/1968,52 yrs,Female,reeves.catrina@gmail.com,601-373-9633,601-668-9601,,118 Rowan Oak Place,Terry,MS,39170
+1021,1020,P'atra,,Parker,2/1/1989,32 yrs,Female,,601-373-9633,,,413 Lee Street,Jackson,MS,39272
+1017,872,Briana,,Roberts,9/25/1992,28 yrs,Female,brianaroberts25@yahoo.com,601-955-5767,601-383-6261,,214 Pebble Brook Drive,Clinton,MS,39056
+1006,1005,Terrance,,Hill,7/31/1990,30 yrs,Male,t.time35@yahoo.com,601-376-0845,,,121 Waxwing Drive,Jackson,MS,39212
+996,995,Nicholas,,Prowell,4/26/1990,31 yrs,Male,,601-487-6682,,,100 Cedarwood Drive,Jackson,MS,39212
+995,995,Kendrall L.,Kendrall,Prowell,1/18/1989,32 yrs,Female,,601-487-6682,,,100 Cedarwood Drive,Jackson,MS,39212
+994,995,Antwan,,Prowell,11/30/1986,34 yrs,Male,,601-487-6682,,,100 Cedarwood Drive,Jackson,MS,39212
+993,995,Lori,,Prowell,5/29/1969,51 yrs,Female,lprowell6@yahoo.com,601-487-6682,601-500-0878,,100 Cedarwood Drive,Jackson,MS,39212
+992,995,Antonio D.,Antoinio,Prowell,5/15/1985,35 yrs,Male,antonioiprwll@yahoo.com,601-487-6682,601-918-3030,601-371-7446,100 Cedarwood Drive,Jackson,MS,39212
+987,206,Charence,,Higgins,8/19/1994,26 yrs,Female,charence.higgins@yahoo.com,601-856-5654,601-201-0595,,117 Elizabeth Ave,Madison,MS,39110
+978,976,Ella Aretha,Ella,Cain,12/13/1972,48 yrs,Female,,,,,"1415 Everett Street
+apt A-1",Jackson,MS,39204
+975,973,Kenneth,,Willis,8/15/1963,57 yrs,Male,,601-371-2709,601-750-8707,,806 Eagles Nest Drive,Byram,MS,39272
+974,972,Sheila Armstrong,Sheila,Willis,3/21/1965,56 yrs,Female,kw39212@yahoo.com,601-371-2709,601-953-2731,601-987-3708,806 Eagles Nest Drive,Byram,MS,39272
+973,972,Kenyatta Daniell',Kenyatta,Willis,12/9/1994,26 yrs,Female,,601-371-2709,,,806 Eagles Nest Drive,Byram,MS,39272
+971,1311,Asiah,,Ford,7/31/1996,24 yrs,Female,,601-405-1311,,,445 Hillandale Drive,Jackson,MS,39212
+970,528,Chanda,,Reeves,5/3/1994,26 yrs,Female,,601-371-6454,,,600 S. Springlake Circle,Terry,MS,39170
+967,965,Kayla Makelle,Kayla,Day,11/2/1995,25 yrs,Female,queenk.1995@gmail.com,601-566-5255,,,"300 Byram Dr.
+Apt. 35B",Jackson,MS,39272
+966,1311,Tekisha,,Nash,12/21/1975,45 yrs,Female,ttnash21@gmail.com,601-405-1311,601-405-1311,,445 Hillandale Drive,Jackson,MS,39212
+962,960,Bobbie,,Lowe,8/15/1952,68 yrs,Female,,601-372-8160,,,1235 Marydale Dr.,Jackson,MS,39212
+936,935,Terra Bryant,Terra,Hall,8/2/1965,55 yrs,Female,terrahall@bellsouth.net,601-337-5759,,,4279 Glenn Oak Circle,Byram,MS,39272
+934,465,Artavian,,Washington,11/11/1996,24 yrs,Male,,601-203-9664,601-956-1228,,1832 Northwood Circle,Jackson,MS,39213
+930,537,Trenton C.,Trenton,Robinson,7/28/1983,37 yrs,Male,,601-906-0814,,,127 Victoria Place,Brandon,MS,39042
+924,469,Cole,,Michael,6/4/1989,31 yrs,Male,,601-925-5037,,,104 Trace Wood Cove,Clinton,MS,39056
+905,903,Lottie,,Johnson,8/6/1944,76 yrs,Female,,662.436.1840,,,"230 Beasley Road, Apt. 274",Jackson,MS,39206
+904,902,Bob,,Henderson,1/8/1956,65 yrs,Male,bahendoman@gmail.com,769-251-1100,601-942-0047,601-863-1114,410 Justin Cove,Byram,MS,39272
+903,191,Vanessa,,Gleese,1/2/1900,121 yrs,,,601-969-3352,,,268 Lexington Ave,Jackson,MS,39209
+899,872,Maggie Brittany,Maggie,Roberts,3/1/1990,31 yrs,Female,mroberts95@icloud.com,601-955-5767,,,214 Pebble Brook Drive,Clinton,MS,39056
+896,484,Kimberly,,Montgomery,9/30/1991,29 yrs,Female,,601-473-6265,,,738 Cherry Stone Dr.,Clinton,MS,39056
+892,3593,Bobby,,Pamplin II,11/17/1991,29 yrs,Male,,601-922-7025,,,3420 Dundee Lane,Jackson,MS,39212
+890,887,Bertha,,Carter,6/18/1951,69 yrs,Female,,601-925-4715,,,1100 Warner Jordan Dr.,Clinton,MS,39056
+889,887,Raymond,,Carter,7/27/1951,69 yrs,Male,,601-925-4715,,601-960-5378,1100 Warner Jordan Dr.,Clinton,MS,39056
+888,886,Lucy,,Walker,12/28/1957,63 yrs,Female,lucywalker18@att.net,601-373-6249,,601-351-8213,140 Monaco Court,Jackson,MS,39204
+885,883,Charlene Suretha,Charlene,Dixson,8/12/1949,71 yrs,Female,,601-566-8213,,,1618 Topp Ave.,Jackson,MS,39204
+884,882,Reginald D.,Reginald,Knight,5/2/1973,47 yrs,Male,reggieknight480@gmail.com,601-201-3027,601-201-3027,,126 Brisco Street,Madison,MS,39110
+883,3253,LaTasha C.,LaTasha,Clark,8/7/1975,45 yrs,Female,latashacc@gmail.com,601-668-0820,,,111 Bear Creek Ct,Canton,MS,39046
+875,551,Linda,,Rush,8/30/1964,56 yrs,Female,rushlinda86@gmail.com,601-260-1152,601-260-1152,,131 Marshall Drive,Jackson,MS,39212
+874,872,Cornell,,Roberts,10/27/1959,61 yrs,Male,crob6@bellsouth.net,601-955-5767,,,214 Pebble Brook Drive,Clinton,MS,39056
+873,457,John  Dozier,John,McCallum,8/20/1980,40 yrs,Male,,601-925-8223,,,550 Sunny Orchard Lane,Clinton,MS,39056
+871,379,John,,Hoye,,,,,,,,3666 Hollywood,Jackson,MS,39213
+836,833,Angela,,Beaman,5/12/1960,60 yrs,Female,abeaman@bellsouth.net,601-922-8422,,,321 Springfield Circle,Jackson,MS,39209
+835,833,Jerome,,Beaman Sr.,9/2/1961,59 yrs,Male,jeromebeamansr@yahoo.com,601-922-8422,601-613-1087,,321 Springfield Circle,Jackson,MS,39209
+828,826,Paul E.,Paul,Covington Jr.,7/23/1963,57 yrs,Male,,601-355-2239,,,1047 Pecan Blvd.,Jackson,MS,39209
+817,1088,Narah,,Oatis,6/29/1952,68 yrs,Female,narahdoatis@yahoo.com,601-948-0043,,601-968-2764,1015 Laura Ave.,Jackson,MS,39209
+816,1088,Yancey,,Oatis,6/19/1985,35 yrs,Male,,601-948-0043,,,1015 Laura Ave.,Jackson,MS,39209
+793,791,Frank A.,Frank,Yates,2/14/1944,77 yrs,Male,fyates44@aol.com,601-936-3755,601-940-5471,601-362-2011,722 Woodrun Dr.,Pearl,MS,39208
+792,787,EuShawn,,Wright-Smith,9/16/1982,38 yrs,Female,eushawn@gmail.com,601-371-6687,,,1344 Tanglewood Place,Jackson,MS,39204
+791,787,Louis P (Ricky),,Wright Jr.,3/2/1977,44 yrs,Male,,601-371-6687,,,1344 Tanglewood Place,Jackson,MS,39204
+790,787,Denise,,Wright,2/25/1953,68 yrs,Female,cdw1908@gmail.com,601-371-6687,601-260-6109,,1344 Tanglewood Place,Jackson,MS,39204
+789,787,Louis P.,Louis,Wright Sr.,6/11/1953,67 yrs,Male,lwright@entergy.com,601-371-6687,601-946-2887,601-351-4129,1344 Tanglewood Place,Jackson,MS,39204
+788,786,Earnestine,,Young,9/3/1900,120 yrs,Female,,601-373-7809,,,204 Freemyer Dr.,Byram,MS,39272
+787,785,George A.,George,Woodard,3/18/1944,77 yrs,Male,,601-355-1291,,,1917 Wingfield Circle,Jackson,MS,39209
+776,773,James I.(Jimmy),James,Willis,7/22/1958,62 yrs,Male,,601-366-3883,,,2420 Queensroad Ave.,Jackson,MS,39213
+775,773,Jessie Loach,Jessie,Willis,7/11/1900,120 yrs,Female,,601-366-3883,,,2420 Queensroad Ave.,Jackson,MS,39213
+762,758,Kynesha R.,Kynesha,Williams,9/14/1981,39 yrs,Female,,404-694-4064,,,1640 Terry Mill Lane,Grayson,GA,30017
+753,751,James,,Williams,1/14/1971,50 yrs,Male,james.williams540@bellsouth.net,601-366-9819,,,2846 Marion Dunbar St.,Jackson,MS,39213
+748,746,Emma,,Williams-Holmes,6/18/1965,55 yrs,Female,emmawilliams5528@yahoo.com,601-850-9271,,,282 Cameron St.,Jackson,MS,39212
+746,744,Clara Lavon,Clara,Williams,10/15/1954,66 yrs,Female,cwilliams1024@att.net,601-353-3163,601-940-2745,,1024 Matthews Ave.,Jackson,MS,39209
+742,739,Nadia K.,Nadia,Williams,6/11/1982,38 yrs,Female,,601-572-4445,,,531 Asbury Lane Dr.,Pearl,MS,39208
+741,739,Alois,,Williams,6/22/1900,120 yrs,Female,aloisw077@gmail.com,601-572-4445,,,531 Asbury Lane Dr.,Pearl,MS,39208
+739,737,Carolyn A.,Carolyn,Williams,2/15/1955,66 yrs,Female,,601-957-6996,,,5862 Deer Trail,Jackson,MS,39211
+737,735,Audrey Bernice,Audrey,Wiley,1/23/1951,70 yrs,Female,audreybwiley@yahoo.com,601-982-4794,601-331-3562,601-922-3666,1546 Countrywood Drive,Jackson,MS,39213
+735,733,Louis,,Wiggins,2/20/1950,71 yrs,Male,louiswggns@gmail.com,601-981-6007,,,306 Lake of Pine Dr.,Jackson,MS,39206
+732,730,William,,Wheeler,12/29/1900,120 yrs,Male,,601-503-3711,,,103 Grayhawk Cove,Madison,MS,39110
+728,726,Marshall Tyrone,Marshall,Webber,9/11/1961,59 yrs,Male,bluetee55@icloud.com,601-594-1786,601-594-1786,601-359-1478,1049 Matthews Avenue,Jackson,MS,39209
+723,722,La Tanya,,Watts,3/21/1956,65 yrs,Female,,601-949-5559,,,1454 Sullen Ave,Jackson,MS,39213
+722,720,Amos Eric,Amos,Watts Jr.,3/1/1962,59 yrs,Male,,601-906-7208,,,1602 Booker St.,Jackson,MS,39204
+721,719,Shambani,,Watts,2/12/1968,53 yrs,Male,,601-573-9365,,,1454 Sullens Ave.,Jackson,MS,39213
+720,718,Jeraldine,,Watts,3/30/1936,85 yrs,Female,watts.jeraldine@yahoo.com,601-355-3525,601-259-9771,,1454 Sullens Ave.,Jackson,MS,39213
+718,714,Marquisha,,Williams,12/2/1978,42 yrs,Female,,601-948-5374,,,1403 Florence Ave.,Jackson,MS,39204
+716,714,Susie Mae Williams,Susie,Watson,3/10/1956,65 yrs,Female,sweetsue267@gmail.com,601-948-5374,601-540-4393,,4533 Elfin St.,Jackson,MS,39209
+692,688,Shelby Kathleen,Shelby,Walker,1/19/1994,27 yrs,Female,snowflakeshelby@yahoo.com,601-613-4443,,,905 West Ridge Drive,Jackson,MS,39209
+691,689,Chelsea Janai,Chelsea,Walker,8/15/1990,30 yrs,Female,chelseajpace@gmail.com,601-717-2304,,,905 West Ridge Drive,Jackson,MS,39209
+690,688,Tara Bryant,Tara,Walker,5/16/1957,63 yrs,Female,taralaw82@yahoo.com,601-613-4443,,601-948-6752,905 West Ridge Drive,Jackson,MS,39209
+659,653,James,,Terry,,,Male,,601-454-7613,,,131 South Denver St.,Jackson,MS,39209
+657,653,LaTricia Regina,Latricia,Terry,3/11/1995,26 yrs,Female,,769-233-4278,,,131 South Denver St.,Jackson,MS,39209
+655,653,Ruby,,Terry,1/4/1940,81 yrs,Female,,601-454-7613,,,131 South Denver St.,Jackson,MS,39209
+654,1043,Rilanda Terrell,Rilanda,McGill,10/3/1953,67 yrs,Female,rilandamcgill@yahoo.com,601-942-5040,601-942-5040,,334 Summerville Drive,Madison,MS,39110
+649,647,"Alphonse R, Jr.",Al,Taylor,6/18/1953,67 yrs,Male,queart2@aol.com,601-856-8483,601-201-1528,,789 Rosewine Pointe,Madison,MS,39011
+646,642,Willie,,Tate,,,Male,,601-355-5232,,,2616 Hemingway Circle,Jackson,MS,39209
+645,642,Rufus,,Tate Sr.,5/31/1948,72 yrs,Male,,601-355-5232,,,2616 Hemingway Circle,Jackson,MS,39209
+644,642,Brenda White,Brenda,Tate,6/8/1950,70 yrs,Female,btate@jackson.K12.ms.us,601-355-5232,,601-960-2600,2616 Hemingway Circle,Jackson,MS,39209
+639,637,Gail Renee,Gail,Gettis,5/2/1956,64 yrs,Female,gailgettis@gmail.com,601-982-5579,601-331-1644,,2213 Queensroads Ave.,Jackson,MS,39213
+637,634,Tarsha,,Staffney,3/16/1979,42 yrs,Female,,601-353-5146,,,1715 Florence Ave.,Jackson,MS,39204
+636,634,Janice,,Staffney,8/4/1963,57 yrs,Female,Janicestaffney@yahoo.com,601-353-5146,601-454-1656,,1715 Florence Ave.,Jackson,MS,39204
+634,632,John,Danny,Staffney,7/20/1963,57 yrs,Male,stf438@yahoo.com,601-353-5146,601-397-0610,,133 Hemlock Ln.,Madison,MS,39110
+633,628,Eric,,Staffney,1/29/1987,34 yrs,Male,estaffney@peoplepc.com,601-857-8431,601-857-8431,,2381 Dupree Rd.,Raymond,MS,39154
+632,630,Buford,,Staffney Jr.,3/30/1982,39 yrs,Male,,601-564-5371,,,2419 Latimer Avenue,Jackson,MS,39209
+631,628,Gwen,,Staffney,10/2/1900,120 yrs,Female,,601-857-8431,,,2381 Dupree Rd.,Raymond,MS,39154
+630,628,Buford,,Staffney Sr.,9/3/1900,120 yrs,Male,buffordstaffneysr@gmail.com,601-857-8431,601-954-4028,,2381 Dupree Rd.,Raymond,MS,39154
+621,619,Stanley,,Smith,11/19/1955,65 yrs,Male,smit6129@bellsouth.net,601-924-1144,601-502-6754,601-960-1840,407 Parker Drive,Clinton,MS,39056
+618,616,Miller Bernard Jr.,Miller,Smith,1/2/1900,121 yrs,Male,,601-362-4969,,,5914 Whitehill Dr.,Jackson,MS,39206
+610,608,Houston A.,Houston,Smith,11/21/1942,78 yrs,Male,,601-927-3097,601-927-3097,,549 Lexington Ave.,Jackson,MS,39209
+609,606,Doretha,,Smith,6/22/1928,92 yrs,Female,doretha22@outlook.com,601-355-4250,601-750-2240,,1123 Arbor Vista Blvd.,Jackson,MS,39209
+601,599,Lynda,,Robinson,4/19/1975,46 yrs,Female,l_robinson2010@yahoo.com,601-906-3469,601-906-3469,,231 Valley North Blvd.,Jackson,MS,39206
+592,590,Adrian,,Adams,1/25/1987,34 yrs,,,601-362-0081,,,6183 Woodhaven Road,Jackson,MS,39206
+589,13,Mary Pope,Mary,Abron,3/15/1949,72 yrs,Female,,662-902-0353,,,4454 Liberty Hill Rd.,Jackson,MS,39206
+571,569,Ruby Jean Proctor,Ruby,Shaffer,9/5/1939,81 yrs,Female,,601-353-1890,,,524 Fredrica Ave.,Jackson,MS,39209
+569,566,Betty,,Sexton,6/28/1958,62 yrs,Female,sexamelv@yahoo.com,601-953-4160,,,2918 Shelia Dr.,Jackson,MS,39209
+568,566,Vic,,Sexton,11/4/1958,62 yrs,Male,vsexton@city.jackson.ms.us,601-953-4160,601-953-4160,,2918 Shelia Dr.,Jackson,MS,39209
+567,564,Clara Estell,Clara,Seaton,1/23/1930,91 yrs,Female,clomiss@aol.com,601-372-7546,,,1752 Cranston Grove Dr.,Dickinson,TX,77539
+553,551,Timothy,,Rush Sr.,3/10/1963,58 yrs,Male,electrush@yahoo.com,601-260-1152,601-954-2466,,131 Marshall Drive,Jackson,MS,39212
+542,540,Thomas J.,Thomas,Robinson Jr.,1/16/1969,52 yrs,Male,,601-981-4793,,,231 Valley North Blvd.,Jackson,MS,39206
+541,538,Forestine Ousley,Forestine,Robinson,4/10/1941,80 yrs,Female,forestinerobinson@yahoo.com,601-981-4793,601-566-5551,,231 Valley North Blvd.,Jackson,MS,39206
+540,538,Thomas J.,TJ,Robinson Sr.,12/2/1936,84 yrs,Male,tj_robinson2004@yahoo.com,601-981-4793,601-454-5512,,231 Valley North Blvd.,Jackson,MS,39206
+539,537,Tamara,,Robinson,5/2/1968,52 yrs,Female,,601-906-0814,,,127 Victoria Place,Brandon,MS,39042
+537,1361,Sharon Bridges,Sharon,Robinson,3/8/1943,78 yrs,Female,slynrobinson93@gmail.com,601-982-0324,,,973 Watkins Place,Jackson,MS,39206
+530,528,Carlton W,Carlton,Reeves,4/11/1964,57 yrs,Male,carltonwreeves@gmail.com,601-371-6454,601-213-9599,601-354-2121,600 S. Springlake Circle,Terry,MS,39170
+528,525,Lenora,,Reed,12/28/1933,87 yrs,Female,LenoraReed@Bellsouth.net,601-353-9977,601-955-6500,,1612 Florence Ave,Jackson,MS,39204
+521,519,Lillie Marie,Lillie,Ransom,5/10/1974,46 yrs,Female,,601-937-2036,,,2419 Latimer Avenue,Jackson,MS,39209
+517,513,Justin,,Randolph,10/20/1987,33 yrs,Male,,601-372-8160,,,1342 Hair St.,Jackson,MS,39204
+515,513,Adriane,,Randolph,1/2/1900,121 yrs,Female,,601-372-8160,,,1342 Hair St.,Jackson,MS,39204
+507,504,Barbara Russ,Barbara,Ousby,8/31/1966,54 yrs,Female,cbousby@aol.com,601-853-1108,601-238-9129,,P.O. Box 2816,Madison,MS,39130
+506,504,Calvin D.,Calvin,Ousby Sr.,10/25/1959,61 yrs,Male,cousby@cbenterprise.org,601-853-1108,601-238-7899,601-987-1287,P.O. Box 2816,Madison,MS,39130
+500,498,Ruth,,Mosley,2/19/1943,78 yrs,Female,rsmosley.213@gmail.com,601-373-4442,601-942-5409,,600 Park Grove Dr.,Katy,TX,77450
+498,496,Lisa,,Moses,10/3/1963,57 yrs,Female,,601-497-1707,,,1849 Cape Cove,Richland,MS,39218
+492,484,Justin,,Montgomery,3/8/1988,33 yrs,Male,,601-473-6265,,,738 Cherry Stone Dr.,Clinton,MS,39056
+490,484,Vanette,,Montgomery,12/2/1963,57 yrs,Female,vmonty877@gmail.com,601-473-6265,,,738 Cherry Stone Dr.,Clinton,MS,39056
+489,1029,Justin,,Moody,8/3/1983,37 yrs,Male,,601-373-9044,,,5900 Seven Springs Rd.,Raymond,MS,39154
+488,486,Tanesha Vonshay,Tanesha,Moody,12/15/1977,43 yrs,Female,tanesha64@gmail.com,601-954-1860,,,5104 Brookleigh Drive,Byram,MS,39272
+487,1029,Debra Moody,Debra,McGee,7/17/1960,60 yrs,Female,debramcgee@bankplus.net,601-373-9044,,601-944-4622,5900 Seven Springs Rd.,Raymond,MS,39154
+476,473,Yvette,,Mitchell,6/29/1950,70 yrs,Female,lmitchell2834@gmail.com,601-352-1189,601-826-7304,,2834 Hemingway Cir.,Jackson,MS,39209
+475,473,Jerry,,Mitchell Sr.,12/26/1949,71 yrs,Male,jerry_mitchell@bellsouth.net,601-352-1189,601-668-5061,,2834 Hemingway Cir.,Jackson,MS,39209
+472,469,Shellie C.,Shellie,Michael,11/11/1957,63 yrs,Female,michaelscm@comcast.net,601-925-5037,,,104 Trace Wood Cove,Clinton,MS,39056
+471,469,Calvin,,Michael Sr.,4/16/1900,121 yrs,Male,clvnmichael@gmail.com,601-925-5037,601-750-2240,,104 Trace Wood Cove,Clinton,MS,39056
+467,465,Meredith Menjonne,Meredith,McGee,8/5/1970,50 yrs,Female,,601-203-9664,,,1832 Northwood Circle,Jackson,MS,39213
+460,457,Berlena C.,Berlena,McCallum,10/24/1954,66 yrs,Female,berlena.mccallum@yahoo.com,601-925-8223,601-832-2114,,550 Sunny Orchard Lane,Clinton,MS,39056
+453,451,Julius,,Martin Jr.,8/23/1960,60 yrs,Male,jmj82360@aol.com,601-982-7846,601-668-5700,,793 Jasmine Court,Jackson,MS,39206
+451,449,Louise,,Marshall,4/10/1927,94 yrs,Female,,601-906-5258,,,1707 Morehouse,Jackson,MS,39204
+450,448,Herbert,,Marshall,1/2/1900,121 yrs,Male,,,,,903 Arbor Vista,Jackson,MS,39209
+446,443,Quentin Sherrod,Quentin,Terrell,3/1/1989,32 yrs,Male,,601-906-1814,,,313 Heritage Place,Jackson,MS,39212
+445,443,Onnie T.,Onnie,Madison,2/27/1966,55 yrs,Female,onnie.mad906@gmail.com,601-906-1814,601-906-1814,601-364-3438,313 Heritage Place,Jackson,MS,39212
+441,439,Marguerite,,Love,3/5/1931,90 yrs,Female,,601-981-3270,,,4750 Methodist Farm Road,Jackson,MS,39213
+434,432,Shannan,,Jones,2/11/1969,52 yrs,Female,,601-372-7338,601-918-2004,601-939-4792,34 Brock Dr.,Jackson,MS,39272
+426,423,Shirley Woods,Shirley,Johnson,12/25/1949,71 yrs,Female,,601-360-8336,,,1402 Jones St,Jackson,MS,39204
+409,407,Bertha,,Johnson,12/20/1956,64 yrs,Female,bjohns8@entergy.com,601-259-6077,,,500 Avalon Way Apt. #304,Brandon,MS,39047
+408,403,Leanna,,Johnson,8/30/1986,34 yrs,Female,,601-398-3872,,,3205 Copperfield,Jackson,MS,39209
+407,405,Rahsaan,,Johnson,8/13/1981,39 yrs,Male,Johnson07@yahoo.com,(601) 750--5756,601-896-1440,,313 Brookside Cove,Terry,MS,39170
+406,404,Marcus,,Johnson,7/2/1984,36 yrs,Male,,601-398-3872,,,3205 Copperfield,Jackson,MS,39209
+398,395,Shemiah,,Jacobs,1/11/1985,36 yrs,Male,,601-954-3286,,,202 Dona Ave.,Jackson,MS,39212
+397,395,LaDonna D.,LaDonna,Jacobs,3/3/1968,53 yrs,Female,ljacobs@memexcu.com,601-954-3286,601-201-4837,,202 Dona Ave.,Jackson,MS,39212
+386,384,Noel Jackson,Noel,Bogan,12/15/1955,65 yrs,Female,bogan4445@aol.com,601-845-8778,601-259-5578,,691 Thomasville Rd.,Florence,MS,39073
+378,376,Vickie,,Horn,3/28/1964,57 yrs,Female,zan4me@yahoo.com,601-750-9431,,,3535 Highway East,Pearl,MS,39208
+377,372,George,,Hood Jr.,7/14/1989,31 yrs,Male,,601-213-2420,,,1448 Forbes Drive,Jackson,MS,39272
+375,372,Debbie,,Hood,8/10/1962,58 yrs,Female,debbiehood87@gmail.com,601-213-2420,,,1448 Forbes Drive,Jackson,MS,39272
+374,372,George,,Hood Sr.,11/30/1960,60 yrs,Male,debbie.hood@att.net,601-213-2420,601-454-5471,,1448 Forbes Drive,Jackson,MS,39272
+368,366,Antonio V.,Antonio,Hayes,9/3/1972,48 yrs,Male,,601-813-8837,,,308 Swan Lake,Jackson,MS,39212
+366,363,Roceda C,Roceda,Hill,8/9/1957,63 yrs,Female,rocedahill@yahoo.com,601-376-0845,,,121 Waxwing Dr.,Jackson,MS,39212
+365,363,Willie E.,Willie,Hill,4/29/1948,73 yrs,Male,,601-376-0845,,,121 Waxwing Dr.,Jackson,MS,39212
+359,357,LaToya,,Hart,6/28/1977,43 yrs,Female,hart95@hotmail.com,601-942-3372,,,PO Box 75505,Jackson,MS,39282
+356,354,Emma L.,Emma,Harris,4/18/1951,70 yrs,Female,sparklejimhill@yahoo.com,601-672-6385,601-473-5571,,926 Bullrun Drive,Byram,MS,39272
+351,349,Alonzo N.,Alonzo,Hamilton Jr.,2/5/1958,63 yrs,Male,ichthyguy@yahoo.com,601-372-9856,601-201-2723,,105 Glen Iris Place,Jackson,MS,39204
+344,342,Toroski,,Green,1/16/1977,44 yrs,Male,togreen77@yahoo.com,601-896-6199,,,112 Rollingwood Drive,Jackson,MS,39211
+343,340,Audrey,,Green,10/15/1950,70 yrs,Female,,601-982-0729,601-968-7886,,5740 Kirkley Dr.,Jackson,MS,39206
+342,340,Robert,,Green Jr.,7/11/1950,70 yrs,Male,workinggreen68@hotmail.com,601-982-0729,601-953-0117,,5740 Kirkley Dr.,Jackson,MS,39206
+332,330,Ruby,,Frazier,12/2/1939,81 yrs,Female,,601-362-9778,,,113 California Place,Jackson,MS,39213
+325,322,Derra,,Dukes,9/3/1949,71 yrs,Female,derra.dukes@yahoo.com,601-346-6181,601-668-5725,,217 Northbrook Circle,Jackson,MS,39212
+324,322,Charles W.,Charles,Dukes Sr.,11/26/1948,72 yrs,Male,bigdaddyjsu@gmail.com,601-346-6181,601-668-5725,,217 Northbrook Circle,Jackson,MS,39212
+318,316,Alfranso,,Davis,8/19/1972,48 yrs,Male,alfransodavis@gmail.com,601-540-0941,601-540-0941,601-371-2040,309 South Haven Dr.,Jackson,MS,39272
+317,315,Shirley,,Davis,5/23/1957,63 yrs,Female,sdavis1957@att.net,601-373-7006,601-954-2400,,309 South Haven Dr.,Jackson,MS,39272
+313,311,Evelyn Robinson,Evelyn,Davis,5/10/1944,76 yrs,Female,,601-454-6474,,601-362-5116,5123 Sun Valley,Jackson,MS,39206
+304,301,Elois,,Crouther,2/12/1937,84 yrs,Female,,601-362-6877,,,2430 Queensroad Ave.,Jackson,MS,39213
+300,3597,Marian,,Covington,6/30/1936,84 yrs,Female,,601-355-2239,,,1047 Pecan Blvd.,Jackson,MS,39209
+295,292,Evelia,,Collins,5/12/1971,49 yrs,Female,evelia1022@gmail.com,601-260-5563,,,110 Ellicot Burn,Clinton,MS,39056
+293,290,Jonora Nita,Jonora,Coleman,5/1/1964,56 yrs,Female,jrcoleman1992@yahoo.com,601-201-1906,601-201-0339,,5633 Dogwood Trail,Jackson,MS,39212
+292,290,Jimmy,Jimmy,Coleman,12/13/1963,57 yrs,Male,jlcoleman41@yahoo.com,601-201-1906,601-201-1906,601-960-8808,5633 Dogwood Trail,Jackson,MS,39212
+282,278,Damien Kenyn,Damien,Byas,5/23/1976,44 yrs,Female,,601-353-2328,,,538 Fredrica Ave,Jackson,MS,39209
+281,278,Josephine,,Byas,4/22/1950,71 yrs,Female,,601-353-2328,,,538 Fredrica Ave,Jackson,MS,39209
+280,278,Jacob,,Byas,1/20/1947,74 yrs,Male,,601-353-2328,,,538 Fredrica Ave,Jackson,MS,39209
+279,277,Jacqueline,,Butler,9/11/1950,70 yrs,Female,jbutler03@bellsouth.net,601-366-6628,601-672-3158,,4736 Village Dr,Jackson,MS,39206
+275,882,Lenita Bryant,Lenita,Knight,7/4/1967,53 yrs,Female,lenitaknight@bellsouth.net,601-201-3027,601-259-9833,,126 Brisco Street,Madison,MS,39110
+264,262,Lindsey,,Brown,12/19/1989,31 yrs,Male,,601-201-5631,,,"53 Northtown Dr.
+Apt. 31W",Jackson,MS,39211
+256,254,Larry,,Bridges,10/31/1955,65 yrs,Male,lbridges1@bellsouth.net,601-927-3498,,,1533 Fairwood Dr.,Jackson,MS,39213
+255,253,Carvin Lamar,Carvin,Bridges,12/21/1939,81 yrs,Male,,601-201-5356,,,730 Eastview St,Jackson,MS,39209
+250,3593,Jessie,,Pamplin,3/24/1962,59 yrs,Female,suzypamp@yahoo.com,601-922-7025,601-954-7083,,3420 Dundee Lane,Jackson,MS,39212
+249,3594,Bobby,,Pamplin,10/6/1962,58 yrs,Male,bobbypamplin@gmail.com,601-922-7025,601-955-7437,601-885-7176,3420 Dundee Lane,Jackson,MS,39212
+248,242,Mitzi,,Morris,12/27/1983,37 yrs,Female,earlnpearl@aol.com,601-981-8330,,,5914 Canterbury Rd,Jackson,MS,39206
+247,242,Mia,,Morris,4/5/1970,51 yrs,Female,,601-981-8330,,,5914 Canterbury Rd,Jackson,MS,39206
+246,242,John,,Morris II,5/25/1973,47 yrs,Male,,601-209-0512,,,125 Parkfield Dr,Madison,MS,39110
+245,242,Frances Greer,Frances,Morris,10/12/1942,78 yrs,Female,fgmorris03@gmail.com,601-981-8330,,,5914 Canterbury Rd,Jackson,MS,39206
+244,242,John,,Morris,9/19/1939,81 yrs,Male,fgmorris03@gmail.com,601-981-8330,601-966-0232,,5914 Canterbury Rd,Jackson,MS,39206
+241,239,Margarette,,Meeks,4/19/1962,59 yrs,Female,mlfmeeks@gmail.com,601-346-7244,,601-359-2139,1222 Wooddell Drive,Jackson,MS,39212
+234,232,Shaun Rashad,Shaun,McEwen,5/25/1986,34 yrs,Male,shaun39212@yahoo.com,601-862-3068,,,307 Swan Lake Dr.,Jackson,MS,39212
+233,231,Terrance Jacob,Terrance,McEwen,7/28/1982,38 yrs,Male,terrancejmcewen@gmail.com,601-209-9411,,,104 Buckeye Drive,Madison,MS,39110
+232,229,Sandra,,McEwen,12/24/1952,68 yrs,Female,svmcewen03-12@outlook.com,601-372-5753,601-942-9604,,307 Swan Lake Dr.,Jackson,MS,39212
+231,229,Jacob,,McEwen,4/4/1952,69 yrs,Male,mcewen04@comcast.net,601-372-5753,601-842-0023,,307 Swan Lake Dr.,Jackson,MS,39212
+223,220,Mildred B.,Mildred,Kelley,10/3/1935,85 yrs,Female,mbkelley10@aol.com,601-355-1317,601-966-1343,,533 Fredrica Ave.,Jackson,MS,39209
+221,218,Sandra,,Jenkins,11/13/1967,53 yrs,Female,sjenks1908@gmail.com,601-201-2895,601-201-5176,,140 Glenwild Trl.,Canton,MS,39046
+220,218,Darryl,,Jenkins,6/10/1967,53 yrs,Male,djenkins120@gmail.com,601-201-2895,601-201-2895,,140 Glenwild Trl.,Canton,MS,39046
+219,215,Jarrett,,Jasper,4/3/1981,40 yrs,Male,,601-981-4089,601-942-5852,,4669 Norway Dr.,Jackson,MS,39206
+217,215,Vernon,,Jasper,2/10/1950,71 yrs,Male,vernonjasper@comcast.net,601-260-5585,601-260-5585,601-355-5455,4669 Norway Dr.,Jackson,MS,39206
+216,212,Alicia Morzarena,Alicia,James,6/1/1984,36 yrs,Female,aliciajames6184@gmail.com,601-981-7747,601-212-2408,,837 Buttonwood,Jackson,MS,39206
+215,212,Michael Anthony,Micheal,James,1/10/1983,38 yrs,Male,,601-981-7747,601-497-9842,,837 Buttonwood,Jackson,MS,39206
+214,212,Catherine,,James,9/22/1948,72 yrs,Female,c2013james@gmail.com,601-981-7747,601-842-7055,,837 Buttonwood,Jackson,MS,39206
+209,206,Daphne Monix,Daphne,Higgins,6/24/1961,59 yrs,Female,daphne.higgins@aol.com,601-856-5654,601-209-7355,,117 Elizabeth Ave,Madison,MS,39110
+208,206,John,,Higgins,2/26/1961,60 yrs,Male,heyque@aol.com,601-856-5654,601-209-7356,,117 Elizabeth Ave,Madison,MS,39110
+205,902,Krista,,Henderson,6/12/1984,36 yrs,Female,,769-251-1100,,,410 Justin Cove,Byram,MS,39272
+203,902,Claudia,,Henderson,7/19/1957,63 yrs,Female,claudiahend@gmail.com,769-251-1100,601-942-0044,,410 Justin Cove,Byram,MS,39272
+200,198,Angel Shamille,Angel,Hampton,2/22/1977,44 yrs,Female,,601-983-7005,,,214 Camelot Way,Brandon,MS,39047
+199,197,James,,Hampton III,7/22/1979,41 yrs,Male,jih3email@gmail.com,601-983-7005,,,50 Robinwood Pl.,Jackson,MS,39211
+198,196,Jacquelyn Hayes,Jacquelyn,Hampton,8/26/1951,69 yrs,Female,jlinkads@bellsouth.net,601-594-1844,601-594-1844,601-896-0084,50 Robinwood Pl.,Jackson,MS,39211
+197,195,Denise,,Griffin,3/6/1957,64 yrs,Female,deltadee36@hotmail.com,601-259-2429,601-259-2429,,700 Huntington Cove,Madison,MS,39110
+194,191,Nicole,,Gleese,9/7/1900,120 yrs,Female,,601-969-3352,,,268 Lexington Ave,Jackson,MS,39209
+193,191,Sam H.,Sam,Gleese Jr.,3/21/1947,74 yrs,Male,denise.gleese@yahoo.com,601-969-3352,601-927-4649,,268 Lexington Ave,Jackson,MS,39209
+188,186,Juanita Sanders,Juanita,Fisher,2/4/1941,80 yrs,Female,perfish41@gmail.com,601-922-9085,,,7752 Highway 18 West,Jackson,MS,39209
+183,181,Perella Monique,Perella,Fisher-Smith,8/27/1990,30 yrs,Female,Perella7@gmail.com,601-667-7552,,,337 W. Oak Leaf Ct.,Ridgeland,MS,39157
+180,178,Robert C.,Robert,Fisher,12/18/1965,55 yrs,Male,bratschebob@yahoo.com,773-817-5017,,,7752 Highway 18,Jackson,MS,39209
+179,177,Mary,,Fisher,1/10/1961,60 yrs,Female,mfthompsa@gmail.com,601-259-0128,601-259-0128,601-825-8800,7752 Hwy 18 West,Jackson,MS,39209
+177,174,Malena W.,,Dow,11/4/1935,85 yrs,Female,mwdow1104@gmail.com,601-922-8890,601-988-8054,,5152 Gault St,Jackson,MS,39209
+176,174,Robert E,Robert,Dow Sr.,9/19/1931,89 yrs,Male,,601-922-8890,,,5152 Gault St,Jackson,MS,39209
+170,168,Lee Marcus,Lee,Collins,8/15/1939,81 yrs,Male,lcollins815@hotmail.com,601-982-9505,601-259-9084,,3560 Holmes Ave.,Jackson,MS,39213
+169,166,Donovan,,Caston,6/4/1987,33 yrs,Male,,601-924-9858,,,755 Cherry Stone Drive,Clinton,MS,39056
+168,166,Edna,,Caston,7/10/1955,65 yrs,Female,erdcast@bellsouth.net,601-924-9858,,,755 Cherry Stone Drive,Clinton,MS,39056
+166,164,LoEsther,,Benson,12/23/1900,120 yrs,Female,,601-352-9867,,,750 Buena Vista Ave,Jackson,MS,39209
+158,156,Dyandrea,,Kennedy,8/24/1990,30 yrs,Female,dymariu08@yahoo.com,601-260-4546,,,2033 Wisteria Drive,Jackson,MS,39204
+157,155,Latondria,,Turner-Banks,8/11/1981,39 yrs,Female,tlatondria@yahoo.com,601-519-6689,,,1223 Cliffdale Street,Clinton,MS,39056
+156,154,Katrina,,Turner,2/7/1961,60 yrs,Female,KT3743@gmail.com,601-201-0543,,,2033 Wisteria Drive,Jackson,MS,39204
+155,558,Mary Joyce,Mary,Sanders,7/30/1900,120 yrs,Female,hatladydst@gmail.com,601-278-3853,,,421 Lexington Ave,Jackson,MS,39204
+143,140,Toni,,Moore,11/16/1960,60 yrs,Female,,601-362-2473,,,8 Justin Court,Jackson,MS,39206
+142,140,Gene,,Moore,10/24/1958,62 yrs,Male,,601-362-2473,601-954-4363,601-961-4486,8 Justin Court,Jackson,MS,39206
+135,132,Joseph,,Bartee Jr.,5/31/1966,54 yrs,Male,,601-362-2090,,,6857 F.D. Roosevelt DR.,Jackson,MS,39213
+134,132,Joseph,,Bartee Sr.,7/31/1942,78 yrs,Male,,601-362-2090,,,6857 F.D. Roosevelt DR.,Jackson,MS,39213
+133,131,Koffi,,Barnes,10/12/1976,44 yrs,,,601-813-3003,,,4758 Brookwood Place,Jackson,MS,39272
+132,130,Beverly,,Barnes,9/7/1950,70 yrs,Female,bbarnes2003@aol.com,601-362-3042,601-506-0190,,1932 Chandler Dr.,Jackson,MS,39213
+124,122,Druthie,,Bailey,6/4/1955,65 yrs,Female,druthie55@yahoo.com,601-948-6240,601-961-5402,,1329 Florence Avenue,Jackson,MS,39204
+121,117,Michelle,,Wright,9/16/1984,36 yrs,Female,,,,,153 Winchester St.,Byram,MS,39272
+119,117,Deborah Wright,Deborah,Armstrong,7/22/1951,69 yrs,Female,,,,,153 Winchester St.,Byram,MS,39272
+115,113,Derrick,,Amos Sr.,11/17/1971,49 yrs,Male,damos1171@yahoo.com,601-373-0379,601-613-1746,,9879 Crooked Creek Blvd.,Byram,MS,39272
+108,103,Vera,,Adams,5/1/1900,120 yrs,Female,veraadams04@yahoo.com,601-362-0081,,,6183 Woodhaven Rd.,Jackson,MS,39206
+15,13,David,,Abron,12/10/1947,73 yrs,Male,,662-902-0353,601-955-5141,,4454 Liberty Hill Rd.,Jackson,MS,39206
