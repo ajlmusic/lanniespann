@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fb3754cd.chunk.css",
+    "main.js": "/static/js/main.b581bb21.chunk.js",
+    "main.js.map": "/static/js/main.b581bb21.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b1cb345a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b1cb345a.js.map",
+    "static/js/2.a46a34a2.chunk.js": "/static/js/2.a46a34a2.chunk.js",
+    "static/js/2.a46a34a2.chunk.js.map": "/static/js/2.a46a34a2.chunk.js.map",
+    "static/js/3.0cf216ce.chunk.js": "/static/js/3.0cf216ce.chunk.js",
+    "static/js/3.0cf216ce.chunk.js.map": "/static/js/3.0cf216ce.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.fb3754cd.chunk.css.map": "/static/css/main.fb3754cd.chunk.css.map",
+    "static/js/2.a46a34a2.chunk.js.LICENSE.txt": "/static/js/2.a46a34a2.chunk.js.LICENSE.txt",
+    "static/media/11_McBride_Singing_Spain_2.77e7dbfd.jpg": "/static/media/11_McBride_Singing_Spain_2.77e7dbfd.jpg",
+    "static/media/12_McBride_Singing_Spain_2.adf0cd8a.jpg": "/static/media/12_McBride_Singing_Spain_2.adf0cd8a.jpg",
+    "static/media/13_McBride_Singing_Spain_2.43061351.jpg": "/static/media/13_McBride_Singing_Spain_2.43061351.jpg",
+    "static/media/index.css": "/static/media/lspann-home.7d24bbc0.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b1cb345a.js",
+    "static/js/2.a46a34a2.chunk.js",
+    "static/css/main.fb3754cd.chunk.css",
+    "static/js/main.b581bb21.chunk.js"
+  ]
+}
